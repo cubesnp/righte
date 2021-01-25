@@ -1,0 +1,16 @@
+.screenshots {
+  padding: 100px 0;
+  background-color: #f7f9fa;
+  h1 {
+    font-size: 52px;
+    text-align: center;
+    background-color: $primaryColor-light;
+    display: inline-block;
+    padding: 6.5px 22px;
+    margin-bottom: 75px;
+  }
+  .hardware-image {
+    height: 270px;
+    object-fit: cover;
+  }
+}
